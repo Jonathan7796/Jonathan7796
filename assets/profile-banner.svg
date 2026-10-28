@@ -1,0 +1,29 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
+<title id="title">Jonathan Catota — Full Stack Developer</title>
+<desc id="desc">Dark banner with cyan and violet accents. Web, AI and automation. Based in Ecuador.</desc>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0d1117"/><stop offset="1" stop-color="#171b35"/></linearGradient>
+<linearGradient id="accent"><stop stop-color="#38bdf8"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#94a3b8" stroke-opacity=".07"/></pattern>
+</defs>
+<rect width="1200" height="380" rx="24" fill="url(#bg)"/>
+<rect width="1200" height="380" rx="24" fill="url(#grid)"/>
+<rect x="55" y="56" width="5" height="270" rx="2" fill="url(#accent)"/>
+<g font-family="Segoe UI, Arial, sans-serif">
+<text x="84" y="88" fill="#7dd3fc" font-size="16" letter-spacing="4">WEB · AI · AUTOMATION</text>
+<text x="80" y="159" fill="#f8fafc" font-size="58" font-weight="700">Jonathan Catota</text>
+<text x="84" y="208" fill="#c4b5fd" font-size="28" font-weight="600">Full Stack Developer</text>
+<text x="84" y="247" fill="#cbd5e1" font-size="19">Electronics &amp; Automation Engineer</text>
+<text x="84" y="302" fill="#94a3b8" font-size="16">Building interfaces. Connecting systems. Exploring AI.</text>
+<g transform="translate(850 75)">
+<rect width="280" height="227" rx="18" fill="#0d1117" stroke="#334155"/>
+<circle cx="22" cy="22" r="5" fill="#f87171"/><circle cx="40" cy="22" r="5" fill="#fbbf24"/><circle cx="58" cy="22" r="5" fill="#34d399"/>
+<path d="M0 43H280" stroke="#334155"/>
+<g font-family="Consolas, monospace" font-size="16">
+<text x="23" y="82" fill="#a78bfa">developer.profile</text>
+<text x="23" y="119" fill="#7dd3fc">&gt; build with purpose</text>
+<text x="23" y="152" fill="#cbd5e1">&gt; learn by creating</text>
+<text x="23" y="185" fill="#34d399">&gt; based in Ecuador</text>
+</g></g></g>
+<rect x="55" y="355" width="1090" height="2" fill="url(#accent)" opacity=".65"/>
+</svg>

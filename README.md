@@ -1,71 +1,96 @@
-<div align="center">
+﻿<div align="center">
 
-# Jonathan Catota
+![Jonathan Catota — Full Stack Developer · Web, AI and Automation](assets/profile-banner.svg)
 
-**Full Stack Developer · Electronics & Automation Engineer**
+### 👋 Building useful software with web, AI & automation.
 
-Web applications, API integrations, and AI-powered interfaces.
+🌎 **Ecuador** · 💻 **Full Stack Development** · 🧠 **Artificial Intelligence**
 
-Based in Ecuador
-
-[LinkedIn](https://www.linkedin.com/in/jonathan-catota) · [Email](mailto:jonathan_catota77@hotmail.com) · [Explore my projects](https://github.com/Jonathan7796?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let%E2%80%99s_connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/jonathan-catota)
+[![Email](https://img.shields.io/badge/Email-Get_in_touch-8B5CF6?style=for-the-badge)](mailto:jonathan_catota77@hotmail.com)
+[![Projects](https://img.shields.io/badge/GitHub-Explore_projects-0891B2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jonathan7796?tab=repositories)
 
 </div>
 
 ---
 
-## About me
+## ⚡ A little about me
 
-I'm a full stack developer with a background in electronics and automation. I build web interfaces with React and Svelte, work with REST APIs, and use Docker to run containerized applications.
+I'm **Jonathan**, a full stack developer and electronics & automation engineer. I connect web interfaces, APIs, and engineering to turn practical ideas into working software.
 
-My experience includes developing interfaces for AI chatbots in telecommunications. Alongside web development, I explore artificial intelligence and robotics through projects in Python, C++, and ROS 2.
+- 💻 **Web development:** interfaces with React and Svelte, REST API integrations, and containerized applications with Docker.
+- 🤖 **AI interfaces:** experience developing user interfaces for AI chatbots in telecommunications.
+- 🦾 **Engineering:** robotics and simulation projects with C++, ROS 2, and Gazebo.
+- 🎓 **Learning:** AI master's coursework at VIU, including reinforcement learning.
+- 🤝 **How I work:** readable code, continuous learning, and collaboration.
 
-I enjoy connecting interfaces, software, and engineering to solve practical problems, with an emphasis on readable code and collaboration.
+## 🧠 AI & interests
 
-## Technical toolkit
+I'm interested in making AI useful through applications people can interact with.
+
+| 💬 Conversational interfaces | 🎯 Learning & decision-making | 🦾 Intelligent systems |
+| --- | --- | --- |
+| Connecting AI models to web interfaces and chatbot experiences. | Exploring reinforcement learning through practical coursework and experiments. | Bringing together software, automation, and robot simulation. |
+
+🔬 **Explore my work:** [Reinforcement Learning — VIU](https://github.com/Jonathan7796/Proyecto_practico_APR)
+
+## 🛠️ Technical toolkit
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Svelte](https://img.shields.io/badge/Svelte-0D1117?style=for-the-badge&logo=svelte&logoColor=FF3E00)
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=FFD43B)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED)
+
+</div>
 
 | Area | Technologies |
 | --- | --- |
-| Frontend | JavaScript, TypeScript, React, Svelte, HTML, CSS, Tailwind CSS |
-| Backend & APIs | Node.js, Python, FastAPI, Flask, REST APIs |
-| Databases | PostgreSQL, MySQL, MongoDB |
-| Testing & quality | Jest, Nock, ESLint, GitHub Actions |
-| Development & deployment | Git, Docker, Docker Compose, Linux |
-| Engineering & AI | C++, ROS 2, Gazebo, Jupyter Notebook |
+| 🎨 Frontend | JavaScript, TypeScript, React, Svelte, HTML, CSS, Tailwind CSS |
+| ⚙️ Backend & APIs | Node.js, Python, FastAPI, Flask, REST APIs |
+| 🗃️ Databases | PostgreSQL, MySQL, MongoDB |
+| 🧪 Testing & quality | Jest, Nock, ESLint, GitHub Actions |
+| 🐳 Development & deployment | Git, Docker, Docker Compose, Linux |
+| 🔬 Engineering & AI | C++, ROS 2, Gazebo, Jupyter Notebook |
 
-## Selected projects
+## 🚀 Featured projects
 
-### [Page Loader](https://github.com/Jonathan7796/fullstack-javascript-project-138)
+### 🌐 [Page Loader](https://github.com/Jonathan7796/fullstack-javascript-project-138)
 
-A JavaScript command-line utility for downloading web pages. Combines HTTP requests and HTML processing with automated tests and continuous integration.
+A command-line utility for downloading web pages. Combines HTTP requests and HTML processing with automated tests and continuous integration.
 
-**Stack:** Node.js · JavaScript · Axios · Cheerio · Commander · Jest · Nock
+`Node.js` `JavaScript` `Axios` `Cheerio` `Jest` `Nock`
 
-### [Difference Generator](https://github.com/Jonathan7796/fullstack-javascript-project-103)
+### 🔎 [Difference Generator](https://github.com/Jonathan7796/fullstack-javascript-project-103)
 
-A command-line tool for comparing configuration files. Includes YAML parsing, a Jest test suite, and ESLint checks.
+A command-line tool for comparing configuration files, with YAML parsing, a Jest test suite, and ESLint checks.
 
-**Stack:** Node.js · JavaScript · Commander · js-yaml · Lodash · Jest
+`Node.js` `JavaScript` `Commander` `js-yaml` `Lodash` `Jest`
 
-### [Brain Games](https://github.com/Jonathan7796/fullstack-javascript-project-98)
+### 🎮 [Brain Games](https://github.com/Jonathan7796/fullstack-javascript-project-98)
 
-A collection of interactive terminal games covering arithmetic, prime numbers, progressions, and greatest common divisors.
+Interactive terminal games covering arithmetic, prime numbers, progressions, and greatest common divisors.
 
-**Stack:** Node.js · JavaScript · readline-sync · ESLint
+`Node.js` `JavaScript` `readline-sync` `ESLint`
 
-### [Parallel Robot Simulation](https://github.com/Jonathan7796/PFD_TIC_Parallel_robot_Catota_Jonathan)
+### 🦿 [Parallel Robot Simulation](https://github.com/Jonathan7796/PFD_TIC_Parallel_robot_Catota_Jonathan)
 
-A virtual 3UPS-1RPU parallel robot for knee rehabilitation, implemented with ROS 2 and Gazebo. Connects my automation background with software development and simulation.
+A virtual 3UPS-1RPU parallel robot for knee rehabilitation. Connects my automation background with software development and simulation.
 
-**Stack:** C++ · ROS 2 · Gazebo
+`C++` `ROS 2` `Gazebo` `Robotics`
 
-## Exploring AI
+---
 
-My [reinforcement learning project](https://github.com/Jonathan7796/Proyecto_practico_APR) is part of my AI master's coursework at VIU. I'm interested in bringing AI capabilities into useful web applications and conversational interfaces.
+<div align="center">
 
-## Let's connect
+### 🤝 Let's build something useful
 
-For conversations about full stack development, AI interfaces, or automation:
+Interested in **full stack development, AI interfaces, or automation**? Let's connect.
 
-- **LinkedIn:** [jonathan-catota](https://www.linkedin.com/in/jonathan-catota)
-- **Email:** [jonathan_catota77@hotmail.com](mailto:jonathan_catota77@hotmail.com)
+[💼 LinkedIn](https://www.linkedin.com/in/jonathan-catota) · [✉️ Email](mailto:jonathan_catota77@hotmail.com)
+
+</div>
